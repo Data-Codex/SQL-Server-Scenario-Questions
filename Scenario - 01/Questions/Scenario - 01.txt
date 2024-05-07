@@ -1,0 +1,9 @@
+Scenario - 01
+
+Based on the above table solve the following Questions:
+
+1. Identify the top-selling product in terms of total quantity sold for each region.
+2. Calculate the total sales (revenue) for each product category.
+3. Write a T-SQL query to find the top 3 loyal customers based on the total amount spent (revenue) 
+across all transactions. For each of these top customers, determine their most frequently purchased product category.
+4. Write a T-SQL query to calculate the total sales (revenue) for each month across all regions organized by year and month. Display the results in chronological order.
