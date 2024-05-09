@@ -1,0 +1,8 @@
+Scenario - 01
+
+Based on the above table solve the following Questions:
+
+1. Write a T-SQL query to calculate the total sales revenue for each month and region, comparing the current month's sales with the previous month's sales.
+2. Write a T-SQL query to calculate the percentage of total sales revenue contributed by each product category.
+3. Write a T-SQL query to calculate the total sales amount for each product category based on seasons (Spring, Summer, Fall, Winter).
+4. Write a T-SQL query to identify customers who have made purchases in multiple product categories and determine their purchase diversity.
