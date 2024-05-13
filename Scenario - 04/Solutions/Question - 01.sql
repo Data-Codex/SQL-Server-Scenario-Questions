@@ -15,7 +15,7 @@ WITH RegionProductSales AS (
         r.RegionName,
         cat.CategoryName AS ProductCategory,
         SUM(st.Quantity * st.UnitPrice) AS TotalSalesRevenue,
-        ROW_NUMBER() OVER (PARTITION BY r.RegionName ORDER BY SUM(st.Quantity * st.UnitPrice) DESC) AS CategoryRank
+        DENSE_RANK() OVER (PARTITION BY r.RegionName ORDER BY SUM(st.Quantity * st.UnitPrice) DESC) AS CategoryRank
     FROM
         Regions r
     JOIN
