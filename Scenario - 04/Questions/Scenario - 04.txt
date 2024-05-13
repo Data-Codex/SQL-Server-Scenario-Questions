@@ -1,0 +1,7 @@
+Scenario - 04
+
+Based on the above table solve the following Questions:
+
+1. Analyze regional sales data to identify the top three product categories by total revenue in each region and calculate the percentage contribution of these categories to total sales, providing insights into regional preferences and revenue distribution.
+2. Write a T-SQL query to identify the top five best-selling products across all regions based on total sales revenue. Additionally, calculate the average purchase frequency and average spending per customer for each product category to assess customer engagement and product popularity.
+3. Write a T-SQL query to calculate the total number of purchases and average spending per customer for each product category highest to lowest.
