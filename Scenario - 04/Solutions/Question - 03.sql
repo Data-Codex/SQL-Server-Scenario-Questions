@@ -4,8 +4,8 @@
 --Question - 03
 
 /*
-Write a T-SQL query to calculate the total number of purchases and average
-spending per customer for each product category highest to lowest.
+Write a T-SQL query to calculate the total number of purchases highest to lowest and average
+spending per customer for each product category.
 */
 
 -----------------------------------------------------------------------------------------------------
